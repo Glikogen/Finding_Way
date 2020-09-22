@@ -1,0 +1,15 @@
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way.csprojAssemblyReference.cache
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\MainWindow.g.cs
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\App.g.cs
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way_MarkupCompile.cache
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way_MarkupCompile.lref
+D:\ex.C#\Finding_Way\Finding_Way\bin\Debug\Finding_Way.exe.config
+D:\ex.C#\Finding_Way\Finding_Way\bin\Debug\Finding_Way.exe
+D:\ex.C#\Finding_Way\Finding_Way\bin\Debug\Finding_Way.pdb
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\MainWindow.baml
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way.g.resources
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way.Properties.Resources.resources
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way.csproj.GenerateResource.cache
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way.csproj.CoreCompileInputs.cache
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way.exe
+D:\ex.C#\Finding_Way\Finding_Way\obj\Debug\Finding_Way.pdb
